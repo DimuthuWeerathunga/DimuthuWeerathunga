@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning the MERN stack
 - 📫 How to reach me ...
 - LinkedIn https://www.linkedin.com/in/dimuthu-weerathunga-033b431b9
+- Twitter https://twitter.com/DimuthuWeerath1
 
 <!---
 DimuthuWeerathunga/DimuthuWeerathunga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
