@@ -1,7 +1,7 @@
 # 👋 Hi there, I’m Dimuthu
 
 
-- 👀 I’m interested in Backend Web Development
+- 👀 I’m interested in Backend/FullStack(Bakend Heavy) Web Development
 - 📫 How to reach me ...
 - LinkedIn https://www.linkedin.com/in/dimuthu-weerathunga-033b431b9
 - Twitter https://twitter.com/DimuthuWeerath1
