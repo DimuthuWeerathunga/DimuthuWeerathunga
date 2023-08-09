@@ -1,7 +1,7 @@
 # 👋 Hi there, I’m Dimuthu
 
 
-- 👀 I’m interested in FullStack Web Development
+- 👀 I’m interested Web, Distributed Systems, AI
 - 📫 How to reach me ...
 - LinkedIn https://www.linkedin.com/in/dimuthu-weerathunga-033b431b9
 - Twitter https://twitter.com/DimuthuWeerath1
