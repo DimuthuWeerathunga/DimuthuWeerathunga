@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 - [LinkedIn](https://www.linkedin.com/in/dimuthu-weerathunga-033b431b9)
 - [Threads](https://www.threads.net/@dimuthu_weerathunga)
-- [Twitter](https://twitter.com/DimuthuWeerath1)
+- [Twitter](https://twitter.com/dimuthu_wa)
 - Contact Me dimu.wa.98@gmail.com
 
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=DimuthuWeerathunga&show_icons=true&theme=radical"/>
