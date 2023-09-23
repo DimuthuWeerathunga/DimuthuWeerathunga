@@ -1,7 +1,5 @@
 # 👋 Hi there, I’m Dimuthu
 
-
-- 👀 I’m interested in Web, Distributed Systems, AI
 - 📫 How to reach me ...
 - [LinkedIn](https://www.linkedin.com/in/dimuthu-weerathunga-033b431b9)
 - [Threads](https://www.threads.net/@dimuthu_weerathunga)
